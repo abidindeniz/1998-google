@@ -1,0 +1,70 @@
+body {
+          margin :0px; }
+    
+    
+#logo {
+           text-align: center;}   
+
+#orta {
+           margin-top:200px;
+           text-align: center;
+}
+.arama {
+            background-color: rgb(234, 230, 230);
+            margin:10px;
+        
+}
+.kutu
+            {margin-left:550px;
+            width:300px;    height:30px;
+            border: 3px solid #000;
+            background-color:white;}
+ 
+ 
+ #aside {
+     
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 2px;
+            width: 100%px;
+            height: 78px;
+ }
+
+ #Part-1{
+             text-align: center;
+             background-color: rgb(126, 229, 218);
+             float: left;
+             width: 500px;
+             height: 58px;
+             padding-top: 1px;
+             padding-bottom: 30px;
+             font-size: small;
+            }
+
+#Part-2{
+            text-align: center;
+            background-color: rgb(112, 204, 194);
+            float: left;
+            width: 300px;
+            height: 78px;
+            margin-left: 2px;
+            margin-right: 2px;
+            font-size: small;
+            padding-top: 5px;
+            padding-bottom: 5px;
+     
+    }
+#Part-3{
+            text-align: center;
+            background-color: rgb(98, 179, 170);
+            float: left;
+            width: 500px;
+            height: 84px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            font-size: small;
+
+}
+   
+
+        
